@@ -1,4 +1,4 @@
-# Project 3 - *Tgillinstagram*
+# Project 3 - *Tgillinstagram* UPDATE
 
 **Tgillinstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/6slGwTI.gifv'/>
+<img src='https://i.imgur.com/R8xE1Or.gifv'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
